@@ -1,6 +1,6 @@
 [submodule "logicomp-rust"]
-	  path = logicomp-rust
-	  url = https://github.com/dabzr/logicomp-rust.git
+    path = logicomp-rust
+    url = https://github.com/dabzr/logicomp-rust.git
     branch = main
 [submodule "logicomp"]
     path = logicomp
